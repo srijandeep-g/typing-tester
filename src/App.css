@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fdf0d5ff;
+}
+
+h1 {
+  background-color: #003049ff;
+  color: #fdf0d5ff;
+  text-align: center;
+  height: 5rem;
+  line-height: 5rem;
+  letter-spacing: 3px;
+  font-size: 40px;
+}
+/* 
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+  gap: 1rem;
+  width: 50%;
+  box-shadow: 0 10px 25px #003049;
+  background-color: #669bbcff;
+  width: min(90%, 750px);
+  margin: 4rem auto;
+  border-radius: 2rem;
+  -webkit-border-radius: 2rem;
+  -moz-border-radius: 2rem;
+  -ms-border-radius: 2rem;
+  -o-border-radius: 2rem;
+}
+
+textarea {
+  display: block;
+  width: 100%;
+  min-height: 250px;
+  padding: 1.2rem;
+  border: 2px solid #003049;
+  border-radius: 1rem;
+  background-color: #fdf0d5;
+  color: #003049;
+  font-size: 1rem;
+  line-height: 1.6;
+  resize: none;
+  outline: none;
+}
+
+p {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0;
+  padding: 1rem;
+} */
+
+/* --molten-lava: #780000ff;
+--brick-red: #c1121fff;
+--papaya-whip: #fdf0d5ff;
+--deep-space-blue: #003049ff;
+--steel-blue: #669bbcff; */
